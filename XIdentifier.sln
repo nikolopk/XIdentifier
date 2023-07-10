@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XServer", "XIdentifier\XServer.csproj", "{FEBD8819-D2B8-4E71-A41F-85E9206D14FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XClient", "XClient\XClient.csproj", "{171D033D-8A7F-490A-8F9C-C3F090262D81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstractions", "Abstractions\Abstractions.csproj", "{E2142667-0A4C-4412-BBCE-32BBAF751751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEBD8819-D2B8-4E71-A41F-85E9206D14FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEBD8819-D2B8-4E71-A41F-85E9206D14FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEBD8819-D2B8-4E71-A41F-85E9206D14FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEBD8819-D2B8-4E71-A41F-85E9206D14FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171D033D-8A7F-490A-8F9C-C3F090262D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171D033D-8A7F-490A-8F9C-C3F090262D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171D033D-8A7F-490A-8F9C-C3F090262D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171D033D-8A7F-490A-8F9C-C3F090262D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2142667-0A4C-4412-BBCE-32BBAF751751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2142667-0A4C-4412-BBCE-32BBAF751751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2142667-0A4C-4412-BBCE-32BBAF751751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2142667-0A4C-4412-BBCE-32BBAF751751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55C71CA2-1C1B-4376-B8EC-A01787269B4F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+D:\VS_Projects\XIdentifier\XIdentifier\bin\Debug\net7.0\XIdentifier.exe
+D:\VS_Projects\XIdentifier\XIdentifier\bin\Debug\net7.0\XIdentifier.deps.json
+D:\VS_Projects\XIdentifier\XIdentifier\bin\Debug\net7.0\XIdentifier.runtimeconfig.json
+D:\VS_Projects\XIdentifier\XIdentifier\bin\Debug\net7.0\XIdentifier.dll
+D:\VS_Projects\XIdentifier\XIdentifier\bin\Debug\net7.0\XIdentifier.pdb
+D:\VS_Projects\XIdentifier\XIdentifier\bin\Debug\net7.0\SuperSimpleTcp.dll
+D:\VS_Projects\XIdentifier\XIdentifier\obj\Debug\net7.0\XIdentifier.csproj.AssemblyReference.cache
+D:\VS_Projects\XIdentifier\XIdentifier\obj\Debug\net7.0\XIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Projects\XIdentifier\XIdentifier\obj\Debug\net7.0\XIdentifier.AssemblyInfoInputs.cache
+D:\VS_Projects\XIdentifier\XIdentifier\obj\Debug\net7.0\XIdentifier.AssemblyInfo.cs
+D:\VS_Projects\XIdentifier\XIdentifier\obj\Debug\net7.0\XIdentifier.csproj.CoreCompileInputs.cache
+D:\VS_Projects\XIdentifier\XIdentifier\obj\Debug\net7.0\XIdentifier.csproj.CopyComplete
+D:\VS_Projects\XIdentifier\XIdentifier\obj\Debug\net7.0\XIdentifier.dll
+D:\VS_Projects\XIdentifier\XIdentifier\obj\Debug\net7.0\refint\XIdentifier.dll
+D:\VS_Projects\XIdentifier\XIdentifier\obj\Debug\net7.0\XIdentifier.pdb
+D:\VS_Projects\XIdentifier\XIdentifier\obj\Debug\net7.0\XIdentifier.genruntimeconfig.cache
+D:\VS_Projects\XIdentifier\XIdentifier\obj\Debug\net7.0\ref\XIdentifier.dll
